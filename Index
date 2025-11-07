@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo de API Dinâmica</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Exemplo de API Dinâmica</h1>
+  <p>Este projeto consome dados de uma API e os exibe dinamicamente.</p>
+
+  <button id="refresh">🔄 Atualizar Dados</button>
+
+  <div id="result">Carregando dados...</div>
+
+  <script src="app.js"></script>
+</body>
+</html>
